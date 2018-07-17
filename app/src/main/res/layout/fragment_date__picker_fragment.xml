@@ -1,0 +1,11 @@
+<DatePicker xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dialog_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:headerBackground="@android:color/holo_green_light"
+    android:theme="@style/AlertDialog.AppCompat"
+    tools:context="com.example.amin.criminalintent.Date_Picker_fragment">
+
+
+</DatePicker>
