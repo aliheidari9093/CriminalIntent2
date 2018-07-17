@@ -45,6 +45,7 @@ public class CrimePagerActivity extends AppCompatActivity {
                 Log.d(TAG, "position: " + position);
                 Crime crime = mCrimes.get(position);
                 return CrimeDetailFragment.newInstance(crime.getId());
+
             }
 
             @Override
